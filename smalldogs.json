@@ -1,0 +1,24 @@
+{
+  "dogsofthedax": [
+    {
+      "dog1_symbol": "BMW.DE",
+      "dog1_name": "Bayrische Motorenwerke (BMW) AG"
+    },
+    {
+      "dog2_symbol": "BAS.DE",
+      "dog2_name": "BASF SE"
+    },
+    {
+      "dog3_symbol": "BAYN.DE",
+      "dog3_name": "Bayer AG"
+    },
+    {
+      "dog4_symbol": "DTE.DE",
+      "dog4_name": "Deutsche Telekom AG"
+    },
+    {
+      "dog5_symbol": "EOAN.DE",
+      "dog5_name": "E.ON SE"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dogsofthedax": [
+    {
+      "dog1_symbol": "BAYN.DE",
+      "dog1_name": "Bayer AG"
+    },
+    {
+      "dog2_symbol": "BAS.DE",
+      "dog2_name": "BASF SE"
+    },
+    {
+      "dog3_symbol": "EOAN.DE",
+      "dog3_name": "E.ON SE"
+    },
+    {
+      "dog4_symbol": "ALV.DE",
+      "dog4_name": "Allianz SE"
+    },
+    {
+      "dog5_symbol": "MUV2.DE",
+      "dog5_name": "Muenchener Rueckvers."
+    },
+    {
+      "dog6_symbol": "DTE.DE",
+      "dog6_name": "Deutsche Telekom AG"
+    },
+    {
+      "dog7_symbol": "BMW.DE",
+      "dog7_name": "Bayrische Motorenwerke (BMW) AG"
+    },
+    {
+      "dog8_symbol": "SIE.DE",
+      "dog8_name": "Siemens AG"
+    },
+    {
+      "dog9_symbol": "VOW3.DE",
+      "dog9_name": "Volkswagen AG"
+    },
+    {
+      "dog10_symbol": "DPW.DE",
+      "dog10_name": "Deutsche Post AG"
+    }
+  ]
+}
