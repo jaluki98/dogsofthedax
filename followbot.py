@@ -16,11 +16,6 @@ from twitter import Twitter, OAuth, TwitterHTTPError
 import os
 
 # put your tokens, keys, secrets, and Twitter handle in the following variables
-OAUTH_TOKEN = "1353817832665083904-vlvn3FzZTm6k5wOCWaPW9epcA2uako"
-OAUTH_SECRET = "wuisfjGULZ4wWdTW9Cv2NyTxVRJxqLzMD1FJxzfGCDs4x"
-CONSUMER_KEY = "QA8MwyQ7vU0Kej5DqJpYg7rr1"
-CONSUMER_SECRET = "YzUGJMNuqO6YClqWT0pz8gKnC5TzSz11mU1Ha2cmGSfvQrynFB"
-TWITTER_HANDLE = "dogsofthedax"
 
 # put the full path and file name of the file you want to store your "already followed"
 # list in
